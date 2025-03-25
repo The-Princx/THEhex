@@ -18,7 +18,7 @@ python THEhex.py -[Option] [Value]
 *Installation*
 Clone the repo and run the Python script:
 ```bash
-git clone https://github.com/yourusername/THEhex.git
+git clone https://github.com/The-Princx/THEhex.git
 cd THEhex
 python THEhex.py -[Option] [Value]
 ```
